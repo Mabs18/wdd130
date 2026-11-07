@@ -28,7 +28,6 @@ h1 {
 }
 
 img {
-    float: center;
     width: 200px;
     height: auto;
     border: 1px solid black;
@@ -41,7 +40,6 @@ p {
 }
 
 aside img {
-    float: center;
     width: 200px;
     height: auto;
 }
